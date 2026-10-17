@@ -9,4 +9,5 @@ soundfile
 scipy
 ipython
 jupyter
+streamlit
 
